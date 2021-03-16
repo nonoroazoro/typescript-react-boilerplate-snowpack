@@ -1,0 +1,24 @@
+@import "../../styles/variables.less";
+@diameter: 220px;
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding-top: 16px;
+}
+
+.innerContainer
+{
+    .circle(@diameter);
+    background-color: @backgroundColorSecondary;
+    box-shadow: @shadowCover;
+}
+
+.content
+{
+    text-align: center;
+    line-height: @diameter;
+}

@@ -1,0 +1,13 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "allowJs": true
+    },
+    "include": [
+        "examples",
+        "scripts",
+        "src",
+        "tests",
+        "snowpack.config.js"
+    ]
+}
