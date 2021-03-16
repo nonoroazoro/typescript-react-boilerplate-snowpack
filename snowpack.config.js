@@ -18,6 +18,9 @@ module.exports = {
         port: devPort,
         secure: devProtocol === "https"
     },
+    routes: [
+        { match: "routes", src: ".*", dest: "/index.html" }
+    ],
     buildOptions: {
         out: buildPath
     },
