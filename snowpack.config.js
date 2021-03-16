@@ -4,8 +4,8 @@ const { buildPath, rootPath, devHost, devPort, devProtocol } = require("./script
 module.exports = {
     root: rootPath,
     mount: {
-        examples: "/",
-        src: "/"
+        src: "/",
+        examples: { url: "/", static: true }
     },
     plugins: [
         "@snowpack/plugin-react-refresh",
