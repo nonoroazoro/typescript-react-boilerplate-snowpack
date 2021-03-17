@@ -1960,10 +1960,10 @@ react-dom@^17.0.1:
     object-assign "^4.1.1"
     scheduler "^0.20.1"
 
-react-fxxking-hooks@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/react-fxxking-hooks/-/react-fxxking-hooks-1.0.4.tgz#32957731b88df1601b2a751f820c4135078d4dde"
-  integrity sha512-Gj61JfXA8iPriK018NNzdPcKFVSK4LHEEI4TCJDbvAJPgvsim0Jpjp0pD5LnSmoZqHZhGnmsvGCXvUESapaPUg==
+react-fxxking-hooks@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/react-fxxking-hooks/-/react-fxxking-hooks-1.0.5.tgz#1496c960422543f59fa16b139156d07236ac0144"
+  integrity sha512-cpRWXJQsFBGtdmO10nAYMF/AZgByqJhz06skbt/Sb3/c6BoU8iuR3yCnZ5Fi61nO+BtTLu2pFwX97M/+Ov1RGA==
 
 react-is@^16.6.0, react-is@^16.7.0, react-is@^16.8.1:
   version "16.13.1"
