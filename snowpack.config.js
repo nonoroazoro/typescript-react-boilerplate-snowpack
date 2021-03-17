@@ -26,8 +26,9 @@ module.exports = {
     },
     optimize: {
         bundle: true,
+        clean: true,
+        manifest: false,
         minify: true,
-        target: "es2017",
-        manifest: false
+        target: "es2017"
     }
 };
