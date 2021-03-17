@@ -39,7 +39,7 @@ export class ErrorBoundary extends React.PureComponent<BaseReactProps, ErrorBoun
         {
             if (error.code === "USER_NOT_LOGIN")
             {
-                location.href = "https://github.com/nonoroazoro/typescript-react-boilerplate";
+                location.href = "https://github.com/nonoroazoro/typescript-react-boilerplate-snowpack";
             }
             else
             {
