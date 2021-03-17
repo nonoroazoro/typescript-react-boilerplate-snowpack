@@ -30,7 +30,7 @@
     "scripts": {
         "start": "npm run dev",
         "dev": "snowpack dev",
-        "build": "snowpack build && npm run build:types",
+        "build": "npm run build:types && snowpack build",
         "build:types": "tsc --project ./tsconfig.types.json"
     },
     "dependencies": {
