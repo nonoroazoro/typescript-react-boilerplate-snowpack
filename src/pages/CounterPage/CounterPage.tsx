@@ -10,7 +10,7 @@ import styles from "./CounterPage.module.less";
 
 export interface CounterPageProps extends BaseReactProps
 {
-    value: number;
+    value?: number;
 }
 
 export const CounterPage = (props: CounterPageProps) =>
