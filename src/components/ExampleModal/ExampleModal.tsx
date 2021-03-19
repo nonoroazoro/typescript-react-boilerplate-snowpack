@@ -2,7 +2,7 @@ import cs from "classnames";
 import * as React from "react";
 import { useInterval } from "react-fxxking-hooks";
 
-import { BaseReactProps } from "../../types";
+import type { BaseReactProps } from "../../types";
 import { Modal } from "../Modal";
 
 import styles from "./ExampleModal.module.less";
