@@ -1,13 +1,8 @@
 {
     "compilerOptions": {
         "module": "esnext",
-        "target": "es5",
-        "lib": [
-            "dom",
-            "es5",
-            "es6"
-        ],
-        "jsx": "react",
+        "target": "esnext",
+        "jsx": "preserve",
         "sourceMap": true,
         "moduleResolution": "node",
         "allowUnreachableCode": true,
@@ -15,6 +10,7 @@
         "experimentalDecorators": true,
         "forceConsistentCasingInFileNames": true,
         "importHelpers": true,
+        "importsNotUsedAsValues": "error",
         "noImplicitAny": true,
         "noImplicitReturns": true,
         "noImplicitThis": true,
@@ -26,7 +22,7 @@
         "skipLibCheck": true,
         "strictBindCallApply": true,
         "strictNullChecks": true,
-        "suppressImplicitAnyIndexErrors": true
+        "suppressImplicitAnyIndexErrors": true,
     },
     "include": [
         "src"
