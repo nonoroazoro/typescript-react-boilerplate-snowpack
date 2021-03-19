@@ -845,10 +845,10 @@ escape-string-regexp@^1.0.5:
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-zoro@^4.3.0:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-zoro/-/eslint-config-zoro-4.3.0.tgz#5713883aab79e2ad895984fae44135032a698300"
-  integrity sha512-VUozGXpiUhNEQyG1z31PVoG+9I4wFG8TMDhA+YK6680vhyqcXh8osA9Eu1gDUkh0ZW1ApA7Sy78KEKfITvS3Qg==
+eslint-config-zoro@^4.4.0:
+  version "4.4.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-zoro/-/eslint-config-zoro-4.4.0.tgz#f1f26eb9346360bcf76efb6b05a7091204e735e2"
+  integrity sha512-t2zDEr5u5sQ/x3jTAddgO2Nwvn4Iv5t4fZFkPEDkr6WpUMGu4WPkJy0AyvvrkjSScronJXjDYT4sG0Nl9sZsNg==
 
 eslint-plugin-react-hooks@^4.2.0:
   version "4.2.0"
